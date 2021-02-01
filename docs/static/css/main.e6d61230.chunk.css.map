@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/stylesheets/pokeList.scss"],"names":[],"mappings":"AAAA,QACE,cAAe,CACf,OAA6B,CAC7B,wBAAyB","file":"main.e6d61230.chunk.css","sourcesContent":[".tittle {\r\n  font-size: 12px;\r\n  color: alpha($color: #15466e);\r\n  text-decoration: overline;\r\n}\r\n"]}
